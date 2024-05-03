@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @jzmoody
-- 👀 I’m interested in data science, machine learning, and exploring data-driven solutions to real-world problems.
-- 🌱 I’m currently learning advanced machine learning techniques, such as deep learning and natural language processing.
-- 💞️ I’m looking to collaborate on projects related to predictive modeling, data analysis, and AI applications.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm fascinated by the intersection of epidemiology and data science and enjoy applying statistical methods to understand health trends in populations.
+- Hi, I’m @jzmoody
+-  I’m interested in data science, machine learning, and exploring data-driven solutions to real-world problems.
+-  I’m currently learning advanced machine learning techniques, such as deep learning and natural language processing.
+-  I’m looking to collaborate on projects related to predictive modeling, data analysis, and AI applications.
+-  Fun fact: I'm fascinated by the intersection of epidemiology and data science and enjoy applying statistical methods to understand health trends in populations.
 
 
 <!---
